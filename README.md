@@ -69,12 +69,14 @@ Invoice ID, Branch, City, Customer type, Gender, Product line, Unit price, Quant
 
 ![image](https://github.com/user-attachments/assets/b278b409-26f5-45ce-8392-9efdeb078e5b)
 
+#### 11) 
 
 ## Key Indights
-- **Sales Trends** : 15% higher revenue on weekends vs. weekdays
-- **Top Products** : Electronics accessories contribute 28% of total profit
-- **Customer Segments** : Members spend 22% more per transaction than non-members
-- **Peak Hours** : 2PM-4PM generates 35% of daily revenue
+- Peak Shopping Hour: 19:00 (7 PM)
+- Best-selling Product Line: Food and beverages
+- Least-selling Product Line: Health and beauty
+- Most Preferred Payment Method: Ewallet
+- Highest Total Gross Income: Food and Beverages(2673.564)
 
 
   
