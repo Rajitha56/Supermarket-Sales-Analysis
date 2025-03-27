@@ -69,9 +69,7 @@ Invoice ID, Branch, City, Customer type, Gender, Product line, Unit price, Quant
 
 ![image](https://github.com/user-attachments/assets/b278b409-26f5-45ce-8392-9efdeb078e5b)
 
-#### 11) 
-
-## Key Indights
+## Key Insights
 - Peak Shopping Hour: 19:00 (7 PM)
 - Best-selling Product Line: Food and beverages
 - Least-selling Product Line: Health and beauty
